@@ -101,6 +101,11 @@ Ensure the frontend is configured to call backend APIs correctly (e.g., base URL
 
 ---
 
+## 📸 Screenshots (Optional)
+<img width="1050" height="804" alt="image" src="https://github.com/user-attachments/assets/f93428be-c163-475a-a9d6-6dff407a44c0" />
+
+---
+
 ## 📌 Assumptions
 
 * The application is designed for single-user usage.
